@@ -31,6 +31,19 @@
     ]
   },
   {
+    "name": "SearxNG",
+    "pluginKey": "searxng",
+    "description": "SearxNG.",
+    "icon": "https://docs.searxng.org/_static/searxng-wordmark.svg",
+    "authConfig": [
+      {
+        "authField": "SEARXNG_API_URL",
+        "label": "SearxNG Host",
+        "description": "SearxNG Host."
+      }
+    ]
+  },
+  {
     "name": "Wolfram",
     "pluginKey": "wolfram",
     "description": "Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.",

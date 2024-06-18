@@ -94,6 +94,9 @@ meilisearch.exe
 data.ms/*
 auth.json
 
+# SearxNG
+searxng
+
 /packages/ux-shared/
 /images
 
